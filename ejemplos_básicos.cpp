@@ -25,7 +25,7 @@ int main () {
 	return 0;
 	
 	//SEGUNDO EJERCICIO//////////////////////////////////////////////////////////////////////////////////////////////////
-	
+/*	
 	cout << "Ecuación de segundo Grado" << endl;
 	cout << "introduzca los valores a, b y c de la ecuación de segundo Grado." << endl;
 	float x, x1;
@@ -109,7 +109,7 @@ int main () {
 	}
 	}
 	
-	
+	*/
 	
 	
 	
